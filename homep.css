@@ -1,0 +1,71 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Arboria-Bold";
+}
+
+.home{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.home a{
+    background: #ffffff;
+    padding: 0px 25px 0px 32px;
+    position: static;
+}
+
+.input[type="image"]{
+     color: #000000;
+    display: inline-block;
+}
+
+
+
+.input[type = "seach"]{
+    width:858px ;
+    height: 29;
+    padding: 0px 25px 0px 32px;
+    background: #ffffff;
+}
+
+.bapp{
+    font-size: 14px;
+    border: 1px 1px 1px 1px;
+}
+.siga{
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    list-style: none;
+    display: flex;
+    align-items:self-start;
+    box-sizing: border-box;
+}
+
+.siga ol li{
+    display:inline-block;
+}
+.siga li li{
+    display: none;
+}
+h1{
+    
+    text-align: right;
+}
+h2{
+font-size: 17;
+text-align: center;
+    margin:15
+}
+p{
+    background: #f4f4f4;;
+}
+.span{
+    color:#000000;
+}
+.ibox{
+    width: 248;
+    height: 309.59;
+    
+}
